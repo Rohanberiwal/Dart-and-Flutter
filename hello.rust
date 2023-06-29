@@ -1,0 +1,8 @@
+// use to remove error if there are any
+#![allow(unused)]
+use std::io; // this is standard input and output liberary // use to take the random values
+// to use random path we can use 
+use st
+fn main() {
+    println!("hello world");
+}
