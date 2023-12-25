@@ -1,4 +1,5 @@
 JIT and AOT compliation
+ // 
 Dart is a static and the complied programming langauge . In the static type means if the varibale is declared aas the static type  then the variable cannot ve assigned to some other type of the variable . 
 excample :
 String x  = "hello" ;
